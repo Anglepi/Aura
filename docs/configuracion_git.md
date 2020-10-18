@@ -18,7 +18,7 @@ Esto comenzará un proceso de generación de clave, y nos preguntará en que rut
 
 De esta manera, me almacenará dentro del directorio .shh un fichero llamado DOCS_clave_publica (el nombre y la ruta que usé no tienen por qué ser los expuestos en esta documentación).
 
-A continuación solicitará una "paraphrase" como mecanismo de seguridad adicional, que protege todos los sitios en los que usemos dicha clave si alguien lograra acceder a mi equipo. Se puede dejar en blanco si no se desea usar este mecaniso.
+A continuación solicitará una "paraphrase" como mecanismo de seguridad adicional, que protege todos los sitios en los que usemos dicha clave si alguien lograra acceder a mi equipo. Se puede dejar en blanco si no se desea usar este mecanismo.
 
 Inicio el agente de ssh en caso de no tenerlo iniciado.
 
