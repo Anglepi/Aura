@@ -1,6 +1,7 @@
-# ProyectoCC
+# AURA
+> Asistente Ubicuo Realmente Atípico.
 
-Este repositorio contiene todo lo relacionado con un proyecto ideado por mi parte
+Este repositorio contiene todo lo relacionado con un proyecto ideado por mi parte que prentende solventar problemas que me suelo encontrar en mi vida personal, los cuales de algún modo me obligan a realizar algún mínimo esfuerzo y me han hecho pensar que son fácilmente resolvibles mediante el uso del software.
 
 ## Problema a resolver
 
@@ -15,3 +16,7 @@ Pero claro, este único problema no es suficiente para considerarlo un proyecto,
 ## ¿Por qué este problema?
 
 Como he dicho antes, ha habido más de una situacion en mi vida en la que he pensado "Qué ganas de tener una aplicación que me haga estas cosas y así me quito de pensar, ya que soy muy vago", y los problemas que se me han ocurrido de momento encajarían con una solución de tipo asistente virtual. De alguna manera, seguro que ya es posible resolver algunos de estos problemas mediante asistentes virtuales ya existentes, pero teniendo el mio personalizado al que yo le pueda incluir las funcionalidades que quiera me parece bastante atractivo.
+
+## Documentación del proyecto
+
++ [Puesta a punto del repositorio y configuración de git.](https://github.com/Anglepi/ProyectoCC/blob/main/docs/configuracion_git.md)

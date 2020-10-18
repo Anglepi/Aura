@@ -2,7 +2,7 @@
 
 ## Introducción
 
-A continuación se expondrá una guía sobre cómo se ha configurado todo lo relacionado a git: creación de clave privada y pública y subida de ésta a GitHub, configuración del nombre, email y foto de perfil de la cuenta para que se muestre correctamente en los commits y activación de un segundo factor de autenticación. Todo esto hecho en un sistema Ubuntu
+A continuación se expondrá una guía sobre cómo se ha configurado todo lo relacionado a git: creación de clave privada y pública y subida de ésta a GitHub, configuración del nombre, email y foto de perfil de la cuenta para que se muestre correctamente en los commits y activación de un segundo factor de autenticación. Todo esto hecho en un sistema Ubuntu.
 
 ## Creación de clave pública y privada
 
@@ -16,11 +16,11 @@ Esto comenzará un proceso de generación de clave, y nos preguntará en que rut
 
 > /home/angel/.ssh/DOCS_clave_publica
 
-De esta manera, me almacenará dentro del directorio .shh un fichero llamado DOCS_clave_publica (el nombre y la ruta que usé no tienen por qué ser los expuestos en esta documentación)
+De esta manera, me almacenará dentro del directorio .shh un fichero llamado DOCS_clave_publica (el nombre y la ruta que usé no tienen por qué ser los expuestos en esta documentación).
 
 A continuación solicitará una "paraphrase" como mecanismo de seguridad adicional, que protege todos los sitios en los que usemos dicha clave si alguien lograra acceder a mi equipo. Se puede dejar en blanco si no se desea usar este mecaniso.
 
-Inicio el agente de ssh en caso de no tenerlo iniciado
+Inicio el agente de ssh en caso de no tenerlo iniciado.
 
 > eval "$(ssh-agent -s)"
 
@@ -44,8 +44,8 @@ Hay que establecer un nombre y un email adecuados para que se muestre a la hora 
 > git config --global user.name "Ángel Píñar Rivas"
 > git config --global user.email angle@correo.ugr.es
 
-Se debe tener en cuenta que con "--global" quiero indicar que se cambie en la configuración global de mi perfil, y que si quisiera que esto solo ocurriese para un repositorio concreto, tendría que navegar al directorio del repositorio y ejecutar las líneas en cuestion sin el tag "--global"
+Se debe tener en cuenta que con "--global" quiero indicar que se cambie en la configuración global de mi perfil, y que si quisiera que esto solo ocurriese para un repositorio concreto, tendría que navegar al directorio del repositorio y ejecutar las líneas en cuestion sin el tag "--global".
 
 ## Activación del segundo factor de autenticación
 
-De nuevo, en la sección de configuración de mi perfil de GitHub, en el apartado de "Account Security" puedes elegir diversos métodos como segundo factor de autenticación. En mi caso, he elegido el de SMS a un número de teléfono, ya que la otra opción me obliga a instalar la aplicación móvil y no creo que me aporte mucho tener dicha aplicación instalada, ya que a mí personalmente me gusta usar el teléfono únicamente como herramienta de comunicación
+De nuevo, en la sección de configuración de mi perfil de GitHub, en el apartado de "Account Security" puedes elegir diversos métodos como segundo factor de autenticación. En mi caso, he elegido el de SMS a un número de teléfono, ya que la otra opción me obliga a instalar la aplicación móvil y no creo que me aporte mucho tener dicha aplicación instalada, ya que a mí personalmente me gusta usar el teléfono únicamente como herramienta de comunicación.
