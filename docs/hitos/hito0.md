@@ -19,4 +19,4 @@ Como he dicho antes, ha habido más de una situacion en mi vida en la que he pen
 
 ## Documentación del proyecto
 
-+ [Puesta a punto del repositorio y configuración de git.](https://github.com/Anglepi/ProyectoCC/blob/main/docs/configuracion_git.md)
++ [Puesta a punto del repositorio y configuración de git.](https://github.com/Anglepi/Aura/blob/main/docs/configuracion_git.md)

@@ -21,5 +21,5 @@ Así que por lo tanto, el lenguaje que usaré para desarrollar este sistema ser�
 
 ## Documentación del proyecto
 
-+ [Puesta a punto del repositorio y configuración de git.](https://github.com/Anglepi/ProyectoCC/blob/main/docs/configuracion_git.md)
-+ [Descripción del problema que se propone resolver, tema correspondiente al hito 0](https://github.com/Anglepi/ProyectoCC/blob/main/docs/hitos/hito0.md)
++ [Puesta a punto del repositorio y configuración de git.](https://github.com/Anglepi/Aura/blob/main/docs/configuracion_git.md)
++ [Descripción del problema que se propone resolver, tema correspondiente al hito 0](https://github.com/Anglepi/Aura/blob/main/docs/hitos/hito0.md)
