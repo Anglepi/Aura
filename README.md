@@ -13,6 +13,12 @@ Por cada mensaje recibido, Aura lo procesará y determinará en función de ést
 
 Tras recibir la respuesta, Aura le dará formato en lenguaje natural y contestará al mensaje que el usuario envió en primer lugar.
 
+## Lenguaje a utilizar en el proyecto
+
+He estado echando un vistazo a los distintos lenguajes de programación que nunca había utilizado. En principio me planteé Scala y Perl, acabé descartando Scala porque sentía que no encajaba del todo con un proyecto de esta naturaleza (desde mi desconocimiento del lenguaje), y poco despues un amigo me mencionó el lenguaje Go y me dio buenas opiniones, se ofreció a enseñarme algunos sitios web con ejemplos y me acabó gustando más que Perl.
+
+Así que por lo tanto, el lenguaje que usaré para desarrollar este sistema será Go.
+
 ## Documentación del proyecto
 
 + [Puesta a punto del repositorio y configuración de git.](https://github.com/Anglepi/ProyectoCC/blob/main/docs/configuracion_git.md)
