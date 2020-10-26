@@ -1,0 +1,14 @@
+
+entidad:
+  - src/aura.go
+  - src/database/auramemory.go
+  - src/logs/auralogger.go
+  - src/memes/meme.go
+  - src/memes/mememanager.go
+  - src/notes/note.go
+  - src/notes/notemanager.go
+  - src/reminders/reminder.go
+  - src/reminders/remindermanager.go
+  - src/users/user.go
+  - src/users/usermanager.go
+  
