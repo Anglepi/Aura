@@ -11,4 +11,3 @@ entidad:
   - src/reminders/remindermanager.go
   - src/users/user.go
   - src/users/usermanager.go
-  
