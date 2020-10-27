@@ -31,3 +31,4 @@ La planificación se puede encontrar en [este enlace](https://github.com/Anglepi
 
 + [Puesta a punto del repositorio y configuración de git.](https://github.com/Anglepi/Aura/blob/main/docs/configuracion_git.md)
 + [Descripción del problema que se propone resolver](https://github.com/Anglepi/Aura/blob/main/docs/milestones/milestone0.md)
++ [Planificación del proyecto](https://github.com/Anglepi/Aura/blob/main/docs/planificacion.md)
