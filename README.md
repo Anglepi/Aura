@@ -19,6 +19,14 @@ He estado echando un vistazo a los distintos lenguajes de programación que nunc
 
 Así que por lo tanto, el lenguaje que usaré para desarrollar este sistema será Go.
 
+## Planificación
+
+He elaborado una planificación para el proyecto, aunque algo genérica y probablemente incompleta, sujeta a cambios en las próximas semanas.
+
+Esta falta de precisión en la planificación se debe principalmente a mi inexperiencia con el lenguaje y desconocimiento actual sobre las distintas herramientas y mecanismos que necesitaré aprender para intercomunciar los componentes, habilitar un mecanismo adecuado para la comunicación del agente, desplegar el proyecto...
+
+La planificación se puede encontrar en [este enlace](https://github.com/Anglepi/Aura/blob/main/docs/planificacion.md)
+
 ## Documentación del proyecto
 
 + [Puesta a punto del repositorio y configuración de git.](https://github.com/Anglepi/Aura/blob/main/docs/configuracion_git.md)
