@@ -1,7 +1,12 @@
 package notes
 
-type NoteManager struct {
+import(
+	am "github.com/Anglepi/Aura/src/auramemory"
+)
 
+type NoteManager struct {
+	note Note
+	db am.AuraMemory
 }
 
 func (n NoteManager) getNote(){

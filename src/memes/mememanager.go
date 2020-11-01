@@ -1,7 +1,12 @@
 package memes
 
-type MemeManager struct {
+import(
+	am "github.com/Anglepi/Aura/src/auramemory"
+)
 
+type MemeManager struct {
+	meme Meme
+	db am.AuraMemory
 }
 
 func (m MemeManager) getMeme(){
