@@ -1,7 +1,12 @@
 package users
 
-type UserManager struct {
+import(
+	am "github.com/Anglepi/Aura/src/auramemory"
+)
 
+type UserManager struct {
+	db am.AuraMemory
+	user User
 }
 
 func (u UserManager) getUser(){
