@@ -1,7 +1,5 @@
 package reminders
 
-import "google.golang.org/genproto/googleapis/type/datetime"
-
 type Reminder struct {
 	id int
 	reminder string

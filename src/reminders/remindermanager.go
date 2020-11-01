@@ -1,7 +1,12 @@
 package reminders
 
-type ReminderManager struct {
+import(
+	am "github.com/Anglepi/Aura/src/auramemory"
+)
 
+type ReminderManager struct {
+	reminder Reminder
+	db am.AuraMemory
 }
 
 func (r ReminderManager) getReminder(){
